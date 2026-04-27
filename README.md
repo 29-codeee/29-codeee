@@ -36,19 +36,19 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=29-codeee&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29-codeee&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29-codeee&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29-codeee&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://stats.justsong.cn/api/streak?user=29-codeee&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
-
 ### 🚀 What I'm Currently Working On
 
 - 📌 Solving **Striver's A2Z DSA Sheet** on LeetCode
@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=29-codeee&color=f75c7e&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=f75c7e&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">⭐ <i>"Every expert was once a beginner. Start now, stay consistent!"</i> ⭐</p>
