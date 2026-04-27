@@ -36,7 +36,6 @@
 
 ---
 
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -49,6 +48,7 @@
 </p>
 
 ---
+
 ### 🚀 What I'm Currently Working On
 
 - 📌 Solving **Striver's A2Z DSA Sheet** on LeetCode
@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=f75c7e&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=29-codeee&color=f75c7e&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">⭐ <i>"Every expert was once a beginner. Start now, stay consistent!"</i> ⭐</p>
