@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://stats.justsong.cn/api/streak?user=29-codeee&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29-codeee&theme=radical&background=141321&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak" />
 </p>
 
 ---
