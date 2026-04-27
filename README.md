@@ -63,18 +63,21 @@
 
 ---
 
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/29-codeee?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shreya-t-502291334/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/29-codeee/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_YOUR_GITHUB_ID&color=f75c7e&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">⭐ <i>"Every expert was once a beginner. Start now, stay consistent!"</i> ⭐</p>
