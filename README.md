@@ -2,20 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Product+Engineer+Aspiring+%F0%9F%A4%96;Information+Science+Engineer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Building+Smart+AI+Tools+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=29-codeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shreya's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29-codeee&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" height="150" />
-</div>
-
 ---
 
 ### 👩‍💻 About Me
+- 🤖 **Aspiring AI Product Engineer** focused on building clean, intelligent architecture and AI-first products.
+- 🌱 Currently mastering **Data Structures & Algorithms** via Striver’s A2Z sheet.
+- 🛠️ Tech Stack: **Java, C, TypeScript, Next.js, and Supabase**.
+- ⚡ **Fun Fact:** My technical and fitness journeys are perfectly synced—started both on the same day! 💪
 
-- 🎓 **B.E. in Information Science Engineering** @ JSSATEB (9.2 CGPA)
-- 🤖 **Aspiring AI Product Engineer** focused on building intuitive, AI-first applications.
-- 🌱 Currently mastering **DSA** via Striver’s A2Z sheet.
-- 🛠️ Preferring **Java** and **C** for robust backend logic.
-- ⚡ **Fun Fact:** My fitness and coding journeys started on the same day! 💪
+---
+
+### 🎓 Education
+- 🏫 **JSS Academy of Technical Education** — B.E. in ISE (**9.2 CGPA**)
+- 📚 **Mahesh PU College** — Pre-University (**94%**)
+- 📝 **NET Public School** — ICSE (**97.4%**)
 
 ---
 
@@ -33,20 +33,40 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[HemoLink](https://github.com/29-codeee/HemoLink)** - Java healthcare connectivity project.
-* **[MediScan AI](https://github.com/29-codeee/mediscan-2025)** - Next.js & Supabase medical dashboard.
-* **[ZenAI](https://github.com/29-codeee/yoga_guider)** - AI-powered yoga pose detection.
+* 🧘 **[ZenAI / Yoga Trainer](https://github.com/29-codeee/yoga_guider)**
+  * An AI-powered wellness platform providing real-time coaching using pose detection to ensure correct form.
+  * *Tech: JavaScript, PoseNet/TensorFlow.js*
+
+* 🏥 **[HemoLink](https://github.com/29-codeee/HemoLink)**
+  * A relational database system (RDBMS) for managing blood bank inventories and donor connectivity.
+  * *Tech: Java, MySQL*
+
+* 💊 **[MediScan AI](https://github.com/29-codeee/mediscan-2025)**
+  * A HIPAA-ready healthcare dashboard featuring an AI prescription scanner and pill reminder system.
+  * *Tech: Next.js, Supabase, AI/OCR*
+
+* 📈 **[My-DSA-Journey](https://github.com/29-codeee/My-DSA-Journey)**
+  * A curated repository of LeetCode solutions and patterns following Striver's A2Z roadmap.
 
 ---
 
 <div align="center">
   <h3>📫 Connect With Me</h3>
-  <a href="https://www.linkedin.com/in/shreya-t-502291334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/29-codeee/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/shreya-t-502291334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/29-codeee/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/29-codeee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p style="margin-top: 20px; font-style: italic; color: #8b949e;">"Every expert was once a beginner. Start now, stay consistent!"</p>
 </div>
