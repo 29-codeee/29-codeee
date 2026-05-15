@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Product+Engineer+Aspiring+%F0%9F%A4%96;Information+Science+Engineer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Building+Smart+AI+Tools+%F0%9F%9A%80" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://portfolio1-green-three.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Portfolio-F75C7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+  </p>
 </div>
 
 ---
