@@ -1,20 +1,11 @@
-Oh no, I am so sorry! It looks like you copied my entire chat message instead of just the code. That’s my fault for adding extra text!
-
-Please **delete everything** currently in your `README.md` file, and **ONLY copy the code inside the black box below**. 
-
-Click the small "Copy" button in the top right corner of the box below, and paste exactly that:
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Product+Engineer+Aspiring+%F0%9F%A4%96;Information+Science+Engineer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Building+Smart+AI+Tools+%F0%9F%9A%80" alt="Typing SVG" />
 
   <br />
-  <br />
+
+  ## 🌐 [Click here to view my Live Portfolio!](https://portfolio1-green-three.vercel.app/)
 
   <p align="center">
-    <a href="https://portfolio1-green-three.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live_Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/shreya-t-502291334/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -22,16 +13,6 @@ Click the small "Copy" button in the top right corner of the box below, and past
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
   </p>
-
-  <br />
-
-  <!-- GitHub Stats Cards -->
-  <a href="https://github.com/29-codeee">
-    <img src="https://github-readme-stats.vercel.app/api?username=29-codeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/29-codeee">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29-codeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
 </div>
 
 ---
@@ -54,7 +35,7 @@ Click the small "Copy" button in the top right corner of the box below, and past
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -62,7 +43,7 @@ Click the small "Copy" button in the top right corner of the box below, and past
 </p>
 
 **AI-First Workflow**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -93,4 +74,4 @@ Click the small "Copy" button in the top right corner of the box below, and past
 <div align="center">
   <p style="font-style: italic; color: #8b949e;">"Every expert was once a beginner. Start now, stay consistent!"</p>
 </div>
-```
+ this is my current readme code in github for my profile any changes or improvements
