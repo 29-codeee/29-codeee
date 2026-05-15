@@ -4,15 +4,6 @@
   <br />
 
   ## 🌐 [Click here to view my Live Portfolio!](https://portfolio1-green-three.vercel.app/)
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/shreya-t-502291334/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/29-codeee/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -32,46 +23,47 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Projects
 
-**Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-**AI-First Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **AgriAssist** | AI-driven agricultural platform for smart crop monitoring and disease detection. | [Repo](https://github.com/29-codeee/AgriAssist) |
+| **ZenAI** | AI-powered yoga trainer with real-time pose detection and posture correction. | [Repo](https://github.com/29-codeee/yoga_guider) |
+| **HemoLink** | Relational database system for blood bank inventory and donor connectivity. | [Repo](https://github.com/29-codeee/HemoLink) |
+| **MediScan AI** | HIPAA-ready dashboard with AI prescription scanner and pill reminders. | [Repo](https://github.com/29-codeee/mediscan-2025) |
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Achievements & Recognition
+- 🥇 **SSLC School Topper** — 97.4%
+- 🎖️ **Top 5% of PU Batch** — 94%
+- 📜 **Certifications:** C Programming (Pointers & Data Structures), Cyber Security Fundamentals
+- 🤝 **Volunteer:** National Conference on Innovation (JSSATEB)
 
-* 🌾 **[AgriAssist](https://github.com/29-codeee/AgriAssist)**
-  * An AI-driven agricultural platform designed to empower farmers with smart crop monitoring and disease detection.
-  * *Tech: Java, AI Integration*
+---
 
-* 🧘 **[ZenAI / Yoga Trainer](https://github.com/29-codeee/yoga_guider)**
-  * An AI-powered wellness platform providing real-time coaching using pose detection to ensure correct form.
-  * *Tech: JavaScript, PoseNet/TensorFlow.js*
+### 🧩 Extracurricular & Community
+- 💡 **Hackathon Enthusiast** — Participated in multiple 24-48 hour sprints building prototypes for healthcare and agriculture.
+- 🌐 **GDG (Google Developer Groups)** — Active participant in college-organized events and workshops.
+- 💻 **Coding Club Core Member** — Collaborated on organizing technical fests and DSA coding rounds.
+- 🤖 **AI Research** — Exploring emerging trends in LLMs and AI-integrated developer workflows.
+- 🎓 **Mentorship** — Helping juniors get started with Git, GitHub, and clean coding practices.
 
-* 🏥 **[HemoLink](https://github.com/29-codeee/HemoLink)**
-  * A relational database system (RDBMS) for managing blood bank inventories and donor connectivity.
-  * *Tech: Java, MySQL*
+---
 
-* 💊 **[MediScan AI](https://github.com/29-codeee/mediscan-2025)**
-  * A HIPAA-ready healthcare dashboard featuring an AI prescription scanner and pill reminder system.
-  * *Tech: Next.js, Supabase, AI/OCR*
+### 📬 Get in Touch
+
+| Platform | Link |
+| :--- | :--- |
+| 📧 **Email** | [shreyat2936@gmail.com](mailto:shreyat2936@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/shreya-t-502291334/](https://www.linkedin.com/in/shreya-t-502291334/) |
+| 🚀 **Portfolio** | [portfolio1-green-three.vercel.app](https://portfolio1-green-three.vercel.app/) |
+| 💻 **GitHub** | [github.com/29-codeee](https://github.com/29-codeee) |
+| 🧩 **LeetCode** | [leetcode.com/u/29-codeee/](https://leetcode.com/u/29-codeee/) |
 
 ---
 
 <div align="center">
-  <p style="font-style: italic; color: #8b949e;">"Every expert was once a beginner. Start now, stay consistent!"</p>
+  <p>✨ <b>Always learning, building, and shipping great products</b> ✨</p>
+  <p>Made with ❤️ by Shreya</p>
 </div>
- this is my current readme code in github for my profile any changes or improvements
