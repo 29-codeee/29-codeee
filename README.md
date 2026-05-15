@@ -28,8 +28,8 @@
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **MediScan AI** | HIPAA-ready healthcare dashboard with AI prescription scanning and pill reminders. | [Live](https://mediscan-2025.vercel.app/) • [Repo](https://github.com/29-codeee/mediscan-2025) |
+| **ZenAI** | AI-powered yoga trainer with real-time pose detection and posture correction. | [Live](https://yogaguiderr.vercel.app/) • [Repo](https://github.com/29-codeee/yoga_guider) |
 | **AgriAssist** | AI-driven agricultural platform for smart crop monitoring and disease detection. | [Repo](https://github.com/29-codeee/AgriAssist) |
-| **ZenAI** | AI-powered yoga trainer with real-time pose detection and posture correction. | [Repo](https://github.com/29-codeee/yoga_guider) |
 | **HemoLink** | Relational database system for blood bank inventory and donor connectivity. | [Repo](https://github.com/29-codeee/HemoLink) |
 
 ---
