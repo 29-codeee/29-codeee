@@ -40,6 +40,10 @@
 
 ### 🚀 Featured Projects
 
+* 🌾 **[AgriAssist](https://github.com/29-codeee/AgriAssist)**
+  * An AI-driven agricultural platform designed to empower farmers with smart crop monitoring and disease detection.
+  * *Tech: Java, AI Integration*
+
 * 🧘 **[ZenAI / Yoga Trainer](https://github.com/29-codeee/yoga_guider)**
   * An AI-powered wellness platform providing real-time coaching using pose detection to ensure correct form.
   * *Tech: JavaScript, PoseNet/TensorFlow.js*
@@ -51,9 +55,6 @@
 * 💊 **[MediScan AI](https://github.com/29-codeee/mediscan-2025)**
   * A HIPAA-ready healthcare dashboard featuring an AI prescription scanner and pill reminder system.
   * *Tech: Next.js, Supabase, AI/OCR*
-
-* 📈 **[My-DSA-Journey](https://github.com/29-codeee/My-DSA-Journey)**
-  * A curated repository of LeetCode solutions and patterns following Striver's A2Z roadmap.
 
 ---
 
