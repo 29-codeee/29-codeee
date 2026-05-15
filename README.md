@@ -52,21 +52,6 @@
 
 <br />
 
-<div align="center" style="background:#0d1117;color:#c9d1d9;padding:24px;border-radius:20px">
-### 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=29-codeee&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29-codeee&theme=dark&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=fb7185&currStreakLabel=ffffff" alt="GitHub Streak" width="45%" />
-</p>
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/29-codeee?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="45%" />
-</p>
-</div>
-
-<br />
-
 <div style="background:#0d1117;color:#c9d1d9;padding:24px;border-radius:20px">
 ### 🚀 Portfolio
 
@@ -74,8 +59,8 @@
 - **HemoLink** — Java healthcare connectivity project that streamlines patient and medical data sharing.
 - **My-DSA-Journey** — A LeetCode practice repo showcasing interview-ready DSA solutions and growth.
 - **yoga_guider** — JavaScript wellness app for guided yoga routines and healthy habits.
-- **mediscan-2025** — HIPAA-ready medical dashboard built with Next.js and Supabase for smart prescription scanning.
-- **domain** — Frontend utility for `.is-a.dev` domain presentation and styling.
+- **mediscan-2025** — HIPAA-ready medical dashboard built with Next.js and Supabase.
+- **domain** — Frontend utility for `.is-a.dev` domain presentation.
 
 #### Project Links
 - [HemoLink](https://github.com/29-codeee/HemoLink)
