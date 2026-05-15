@@ -37,9 +37,7 @@
 ### 🧩 Extracurricular & Community
 - 💡 **Hackathon Enthusiast** — Participated in multiple 24-48 hour sprints building prototypes for healthcare and agriculture.
 - 🌐 **GDG (Google Developer Groups)** — Active participant in college-organized events and workshops.
-- 💻 **Coding Club Core Member** — Collaborated on organizing technical fests and DSA coding rounds.
 - 🤖 **AI Research** — Exploring emerging trends in LLMs and AI-integrated developer workflows.
-- 🎓 **Mentorship** — Helping juniors get started with Git, GitHub, and clean coding practices.
 
 ---
 
