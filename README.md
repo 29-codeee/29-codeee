@@ -27,18 +27,10 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
+| **MediScan AI** | HIPAA-ready healthcare dashboard with AI prescription scanning and pill reminders. | [Live](https://mediscan-2025.vercel.app/) • [Repo](https://github.com/29-codeee/mediscan-2025) |
 | **AgriAssist** | AI-driven agricultural platform for smart crop monitoring and disease detection. | [Repo](https://github.com/29-codeee/AgriAssist) |
 | **ZenAI** | AI-powered yoga trainer with real-time pose detection and posture correction. | [Repo](https://github.com/29-codeee/yoga_guider) |
 | **HemoLink** | Relational database system for blood bank inventory and donor connectivity. | [Repo](https://github.com/29-codeee/HemoLink) |
-| **MediScan AI** | HIPAA-ready dashboard with AI prescription scanner and pill reminders. | [Repo](https://github.com/29-codeee/mediscan-2025) |
-
----
-
-### 🏆 Achievements & Recognition
-- 🥇 **SSLC School Topper** — 97.4%
-- 🎖️ **Top 5% of PU Batch** — 94%
-- 📜 **Certifications:** C Programming (Pointers & Data Structures), Cyber Security Fundamentals
-- 🤝 **Volunteer:** National Conference on Innovation (JSSATEB)
 
 ---
 
