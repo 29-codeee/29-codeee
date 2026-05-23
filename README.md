@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Product+Engineer+Aspiring+%F0%9F%A4%96;Information+Science+Engineer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Building+Smart+AI+Tools+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Aspiring+AI+Product+Engineer+🤖;Building+AI-Powered+Solutions+🚀;Full+Stack+Developer+💻;Turning+Ideas+into+Useful+Products+✨;Hackathon+Builder+%26+Problem+Solver+🧩" alt="Typing SVG" />
 
   <br />
 
@@ -9,10 +9,11 @@
 ---
 
 ### 👩‍💻 About Me
-- 🤖 **Aspiring AI Product Engineer** focused on building clean, intelligent architecture and AI-first products.
-- 🌱 Currently mastering **Data Structures & Algorithms** via Striver’s A2Z sheet.
-- 🛠️ Tech Stack: **Java, C, TypeScript, Next.js, and Supabase**.
-- ⚡ **Fun Fact:** My technical and fitness journeys are perfectly synced—started both on the same day! 💪
+- 🤖 Aspiring AI Product Engineer passionate about building impactful AI-first products and intelligent user experiences.
+- 🚀 Focused on rapid product development using AI tools, full stack technologies, and modern developer workflows.
+- 🌱 Strengthening problem-solving skills through Data Structures & Algorithms.
+- 🛠️ Tech Stack: Java, TypeScript, Next.js, Supabase, and AI-integrated workflows.
+- ⚡ Fun Fact: My technical and fitness journeys started on the same day — growing both discipline and creativity together 💪
 
 ---
 
@@ -37,7 +38,7 @@
 ### 🧩 Extracurricular & Community
 - 💡 **Hackathon Enthusiast** — Participated in multiple 24-48 hour sprints building prototypes for healthcare and agriculture.
 - 🌐 **GDG (Google Developer Groups)** — Active participant in college-organized events and workshops.
-- 🤖 **AI Research** — Exploring emerging trends in LLMs and AI-integrated developer workflows.
+- 🤖 **AI Research & Developer Workflows** — Exploring LLMs, AI agents, and AI-assisted product engineering.
 
 ---
 
@@ -54,6 +55,6 @@
 ---
 
 <div align="center">
-  <p>✨ <b>Always learning, building, and shipping great products</b> ✨</p>
+  <p>✨ <b>Always learning, building, and shipping impactful products</b> ✨</p>
   <p>Made with ❤️ by Shreya</p>
 </div>
