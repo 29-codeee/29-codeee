@@ -14,3 +14,47 @@
 - 🌱 Strengthening core fundamentals through Data Structures & Algorithms (Java, LeetCode).
 - 🛠️ **Tech Stack:** Java, TypeScript, Next.js, React, Supabase, MySQL, Tailwind CSS, AI/LLM APIs (Gemini), and AI-assisted dev workflows (Cursor, Trae, VS Code).
 - ⚡ **Fun Fact:** My technical and fitness journeys started on the same day — growing both discipline and creativity together! 💪
+
+---
+
+### 🎓 Education
+- 🏫 **JSS Academy of Technical Education** — B.E. in ISE (**9.2 CGPA**)
+- 📚 **Mahesh PU College** — Pre-University (**94%**)
+- 📝 **NET Public School** — ICSE (**97.4%**)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **HemoLink** | Emergency blood coordination system with Dijkstra-based hospital routing, ABO/Rh compatibility engine, and FEFO inventory management. | [Live](https://haemo-link-sable.vercel.app/) • [Repo](https://github.com/29-codeee/HemoLink) |
+| **MediScan AI** | HIPAA-ready healthcare dashboard with smart AI prescription scanning and medical intelligence. | [Live](https://mediscan-2025.vercel.app/) • [Repo](https://github.com/29-codeee/mediscan-2025) |
+| **ZenAI** | AI-powered yoga trainer with real-time pose detection and personalized posture correction. | [Live](https://yogaguiderr.vercel.app/) • [Repo](https://github.com/29-codeee/yoga_guider) |
+| **AgriAssist** | AI-driven agricultural platform for smart crop monitoring and automated disease detection. | [Repo](https://github.com/29-codeee/AgriAssist) |
+
+---
+
+### 🧩 Extracurricular & Community
+- 🏆 **Hackathon Enthusiast** — Runner-Up at Navodhana (24-hour AIML hackathon); built functional prototypes across multiple sprints.
+- 🌐 **GDG (Google Developer Groups)** — Active in tech community events, workshops, and collaborative building.
+- 🤖 **AI Engineering Focus** — Exploring LLM integration, autonomous AI agents, and production-ready workflows.
+
+---
+
+### 📬 Get in Touch
+
+| Platform | Link |
+| :--- | :--- |
+| 📧 **Email** | [shreyat2936@gmail.com](mailto:shreyat2936@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/shreya-t-502291334](https://www.linkedin.com/in/shreya-t-502291334/) |
+| 🚀 **Portfolio** | [portfolio-audc.vercel.app](https://portfolio-audc.vercel.app/) |
+| 💻 **GitHub** | [github.com/29-codeee](https://github.com/29-codeee) |
+| 🧩 **LeetCode** | [leetcode.com/u/29-codeee](https://leetcode.com/u/29-codeee/) |
+
+---
+
+<div align="center">
+  <p>✨ <b>Always learning, building, and shipping impactful products</b> ✨</p>
+  <p>Made with ❤️ by Shreya</p>
+</div>
